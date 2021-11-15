@@ -13,7 +13,7 @@ https://www.youtube.com/watch?v=DdECKT4jGb0
 
 [Original version](https://github.com/CLRafaelR/IWoLP2021/raw/main/47_Ogawa_202109IWoLP_slides.pdf)
 
-[Extended version with detailed explanations on Bayesian data analyses](https://github.com/CLRafaelR/IWoLP2021/raw/main/47_Ogawa_202109IWoLP_slides_with_BDA.pdf)
+[Extended version with detailed explanations on Bayesian data analyses](https://github.com/CLRafaelR/IWoLP2021/raw/main/47_Ogawa_202109IWoLP_slides_with_Appendices.pdf)
 
 ## Official Page of the Workshop
 
